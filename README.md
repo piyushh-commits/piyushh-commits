@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piyushh-commits
+- 👋 Hi, I’m Piyush Sharma
 - 👀 I’m interested in Software dveloper
 - 🌱 I’m beginner and currently learning "C"
 -     I'd like to collaborate soon.
