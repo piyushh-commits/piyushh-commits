@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Piyush Sharma
-- 👀 I’m interested in Software dveloper
-- 🌱 I’m beginner and currently learning "C"
+-  Hi, I’m Piyush Sharma
+-  I’m interested in Software dveloper
+- 
 -     I'd like to collaborate soon.
 
 <!---
