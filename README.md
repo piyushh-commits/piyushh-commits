@@ -1,5 +1,5 @@
 -  Hi, I’m Piyush Sharma
--  I’m interested in Software dveloper
+-  I’m interested in Software developer
 - 
 -     I'd like to collaborate soon.
 
